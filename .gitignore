@@ -1,0 +1,8 @@
+venv
+.venv
+.idea
+**/__pycache__
+build
+dist
+image_grid_mark.egg-info
+set.yaml
